@@ -52,7 +52,7 @@ Enter the following details and click on **Create**.
 * Application Name: `cluster-configs`
 * Project: `default`
 * Sync Policy: `Manual`
-* Repository URL: `https://github.com/siamaksade/openshift-gitops-getting-started`
+* Repository URL: `https://github.com/redhat-developer/openshift-gitops-getting-started`
 * Revision: `HEAD`
 * Path: `cluster`
 * Destination: `https://kubernetes.default.svc`
@@ -104,7 +104,7 @@ Create a new Argo CD application by clicking on the **New App** button in the Ar
 * Project: `default`
 * Sync Policy: `Automatic`
 * Self-heal: `checked`
-* Repository URL: `https://github.com/siamaksade/openshift-gitops-getting-started`
+* Repository URL: `https://github.com/redhat-developer/openshift-gitops-getting-started`
 * Revision: `HEAD`
 * Path: `app`
 * Destination: `https://kubernetes.default.svc`

@@ -12,5 +12,5 @@ spec:
     directory:
       recurse: true
     path: cluster
-    repoURL: https://github.com/siamaksade/openshift-gitops-getting-started
+    repoURL: https://github.com/redhat-developer/openshift-gitops-getting-started
     targetRevision: HEAD
