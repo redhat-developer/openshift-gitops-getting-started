@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   annotations:
   labels:
-    app: spring-petclinic
+    app: spring-petclin
     app.kubernetes.io/component: web
     app.kubernetes.io/instance: spring-petclinic
     app.kubernetes.io/name: spring-petclinic
